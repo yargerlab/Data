@@ -1,0 +1,4 @@
+Green
+28.0mW
+Andor750 (3)
+Depolarized
