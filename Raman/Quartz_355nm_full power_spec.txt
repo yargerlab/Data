@@ -1,0 +1,4 @@
+UV
+20.10 mW
+Andor750 (3)
+Unpolarized
