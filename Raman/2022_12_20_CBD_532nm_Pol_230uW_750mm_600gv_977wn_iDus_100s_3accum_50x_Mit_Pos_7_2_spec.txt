@@ -1,0 +1,4 @@
+Green
+230.0uW
+Andor750 (3)
+Polarized
