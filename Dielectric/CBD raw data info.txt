@@ -1,0 +1,5 @@
+The dielectric experiment yields real and imaginary part of permittivity, \epsilon = \epsilon' - i\epsilon''.
+The \epsilon' data are in file "CBD-Eps-Real.dat", the \epsilon'' data are in file "CBD-Eps-Imag.dat".
+On both cases, the format is frequency (in Hz) in the first column, and data for each temperature (as labeled) in subsequent columns.
+The analysis amounts to obtaining \epsilon_s from the low frequency plateau of \epsilon' at the point of smallest absolute value of the slope, and the peak frequency \nu_max of \epsilon'', for each temperature. 
+Then \tau_{max} can be determined from \tau_{max} = 1/(2 \pi \nu_{max}).
