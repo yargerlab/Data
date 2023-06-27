@@ -1,0 +1,5 @@
+file "CBD-tau-eps.dat" has the parameters derived from permittivity spectra, \epsilon_s and \tau_{max} = 1/(2 \pi \nu_{max}).
+log_{10}(\tau_{max}/s) is fit using a VFT relation: log_{10}(\tau_{max}/s) = A + B / (T - T_0), leading to:
+A = -14.75, B = 967.3 K, C = T_0 = 197.8 K.
+Tg is determined via C + B/(2-A) = 255.5 K (-17.65 degC)
+m is determined via [B+C(2-A)](2-A)/B = 74
