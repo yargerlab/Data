@@ -1,4 +1,0 @@
-Green
-50.0mW
-Andor750 (3)
-Polarized
