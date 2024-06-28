@@ -1,0 +1,11 @@
+Parameters Report
+File : "C:\Users\yarger\Applications\DMFit\Data\D4_Indomethacin_DMFIT\H2_Alpha_D4_Indomethacin_5kHz_DMFit_FID.fid"
+TI : "Direct 2H with 1H decoupling."
+2H
+"#1 - Line1"	"Quad 1st"	"amp"	9790.31	"pos(ppm)"	6.0037	"wid(ppm)"	2.29463	"gl"	0	"tr"	0/2	"dCS(ppm)"	0	"etaCS"	0	"Phi"	0	"Chi"	0	"Psi"	0	"CQ"	175.783	"etaQ"	0
+
+Integration
+% integral from per point computation
+line	% computed
+0 - Line1	100
+ ro : 5000.84/*end report
