@@ -1,0 +1,11 @@
+Parameters Report
+File : "C:\Users\yarger\Applications\DMFit\Data\H2_Amorphous_D4_Indomethacin_5kHz_DMFit_Real_Spec.hz"
+TI : "Direct 2H with 1H decoupling."
+2H
+"#1 - Line1"	"Quad 1st"	"amp"	5586.24	"pos(Hz)"	381.053	"wid(Hz)"	197.352	"gl"	0	"tr"	0/2	"dCS(Hz)"	0	"etaCS"	0	"Phi"	0	"Chi"	0	"Psi"	0	"CQ"	175.9	"etaQ"	0
+
+Integration
+% integral from per point computation
+line	% computed
+0 - Line1	100
+ ro : 5001.25/*end report
