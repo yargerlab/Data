@@ -1,0 +1,11 @@
+Parameters Report
+File : "C:\Users\yarger\Applications\DMFit\Data\D1_Indomethacin_DMFIT\H2_Amorphous_D1_Indomethacin_5kHz_bc_DMFIT_Spectra.spe"
+TI : "amorphous Indomethacin  D S6 6/27 - H2 onepul  -  scans - 3 sec d1- 140 kHx "
+2H
+"#1 - Line1"	"Quad 1st"	"amp"	6035.3	"pos(Hz)"	164.814	"wid(Hz)"	603.868	"gl"	0	"tr"	0/2	"dCS(Hz)"	0	"etaCS"	0	"Phi"	0	"Chi"	0	"Psi"	0	"CQ"	177.767	"etaQ"	0
+
+Integration
+% integral from per point computation
+line	% computed
+0 - Line1	100
+ ro : 5001.45/*end report
