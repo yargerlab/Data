@@ -1,0 +1,33 @@
+Parameters Report
+File : "C:\Users\yarger\Applications\DMFit\Data\D1_Indomethacin_DMFIT\H2_Gamma_D1_Indomethacin_5kHz_bc_DMFIT_Spectra.hz"
+TI : "gamma Indomethacin  D S8 - 2H onepulse - 2.25 us 90 pulse - d1 3 sec - 1H Dec 140 kHz "
+2H
+"#1 - Line1"	"Quad 1st"	"amp"	1506.9	"pos(ppm)"	2.96619	"wid(ppm)"	6.43011	"gl"	0	"tr"	0/2	"dCS(ppm)"	0	"etaCS"	0	"Phi"	0	"Chi"	0	"Psi"	0	"nuQ"	269.66	"etaQ"	0
+% integral from per point computation
+line	% computed
+0 - Line1	nan
+ ro : 4999.6/*end report
+
+
+
+Parameters Report
+File : "C:\Users\yarger\Applications\DMFit\Data\D1_Indomethacin_DMFIT\H2_Gamma_D1_Indomethacin_5kHz_bc_DMFIT_Spectra.hz"
+TI : "gamma Indomethacin  D S8 - 2H onepulse - 2.25 us 90 pulse - d1 3 sec - 1H Dec 140 kHz "
+2H
+"#1 - Line1"	"Quad 1st"	"amp"	1506.9	"pos(Hz)"	182.013	"wid(Hz)"	394.569	"gl"	0	"tr"	0/2	"dCS(Hz)"	0	"etaCS"	0	"Phi"	0	"Chi"	0	"Psi"	0	"nuQ"	269.66	"etaQ"	0
+% integral from per point computation
+line	% computed
+0 - Line1	nan
+ ro : 4999.6/*end report
+
+
+
+Parameters Report
+File : "C:\Users\yarger\Applications\DMFit\Data\D1_Indomethacin_DMFIT\H2_Gamma_D1_Indomethacin_5kHz_bc_DMFIT_Spectra.hz"
+TI : "gamma Indomethacin  D S8 - 2H onepulse - 2.25 us 90 pulse - d1 3 sec - 1H Dec 140 kHz "
+2H
+"#1 - Line1"	"Quad 1st"	"amp"	1506.9	"pos(ppm)"	2.96619	"wid(ppm)"	6.43011	"gl"	0	"tr"	0/2	"dCS(ppm)"	0	"etaCS"	0	"Phi"	0	"Chi"	0	"Psi"	0	"CQ"	179.773	"etaQ"	0
+% integral from per point computation
+line	% computed
+0 - Line1	nan
+ ro : 4999.6/*end report
