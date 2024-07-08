@@ -1,0 +1,44 @@
+Raman Sample Positions
+
+
+Green Lynx Dragline (Position 1)
+x(mm) = 21.2604
+y(mm) = 33.8508
+z(mm) = 3.842
+
+Green Lynx Egg Case Silk (Position 1)
+x(mm) = 36.2604
+y(mm) = 35.8508
+z(mm) = 
+
+Nylon 6 Cylinder (Position 1)
+x(mm) = 25.2604
+y(mm) = 22.8508
+z(mm) =
+
+Qtz pc
+x(mm) = 15.26
+y(mm) = 22.85
+z(mm) =
+
+HagFish Film - Unstretched
+x(mm) = 31.26
+y(mm) = 22.85
+z(mm) =
+
+Black Widow Egg Case Silk - Washer
+x(mm) = 40.26
+y(mm) = 22.85
+z(mm) =
+
+AcAc Flame Sealed 1.6mm Capillary Tube
+x(mm) = 37.26
+y(mm) = 17.85
+z(mm) =
+
+AcAc in c6-Benzene Flame Sealed 1.6mm Capillary Tube
+x(mm) = 37.26
+y(mm) = 15.85
+z(mm) =
+
+
