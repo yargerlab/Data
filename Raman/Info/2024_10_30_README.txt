@@ -1,0 +1,20 @@
+Oct 30, 2024
+Jeff Yarger
+
+Raman Spectroscopy and Training of Kaelin Ryczek and Mary Lewis (Undergrad RA on NSF grant).
+
+Preliminary run of Steve (Vext) co-crystals.
+
+Sign-up on ASU ilab for Wed, 30 Oct from 4-10 pm.
+
+Train Mary and Kaelin and have them prep CBD, THCa, Proline, CBD-Pro and THCa-Pro samples on 15 slot glass slide.
+
+Use Quartz crystalline pc and CCl4 in 1.6 mm capillary as standards.
+
+Use 0.750 m monochrometer w/ 600 gv/mm grating, iDus CCD camera cooled to -80C and 532 nm Green Coherent Laser.
+
+Data is in standard ascii csv format with an accompanying txt file that gives some basic info (Green, 1.3 or 6 mW, Andor 750, and polarization). 
+
+Image folder has pics of samples, Raman, and a bunch of raman-microscope images of samples before and after spectra were acquired.
+
+
