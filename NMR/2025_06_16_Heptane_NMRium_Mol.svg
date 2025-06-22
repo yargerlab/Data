@@ -1,0 +1,24 @@
+<svg class="nmr-svg"  viewBox="0 0 560 234" width="560"  height="234"  version="1.1" xmlns="http://www.w3.org/2000/svg">
+      <style></style>
+
+  <style> text {font-family: sans-serif;} #molSVG2 { pointer-events:none; } #molSVG2 .event  { pointer-events:all; } line { stroke-linecap:round; } polygon { stroke-linejoin:round; } </style>
+  <line x1="342.35" y1="123" x2="321.57" y2="111" stroke="rgb(0,0,0)" stroke-width="1.44"></line>
+  <line x1="321.57" y1="111" x2="300.78" y2="123" stroke="rgb(0,0,0)" stroke-width="1.44"></line>
+  <line x1="300.78" y1="123" x2="280" y2="111" stroke="rgb(0,0,0)" stroke-width="1.44"></line>
+  <line x1="280" y1="111" x2="259.22" y2="123" stroke="rgb(0,0,0)" stroke-width="1.44"></line>
+  <line x1="259.22" y1="123" x2="238.43" y2="111" stroke="rgb(0,0,0)" stroke-width="1.44"></line>
+  <line x1="238.43" y1="111" x2="217.65" y2="123" stroke="rgb(0,0,0)" stroke-width="1.44"></line>
+  <line id="molSVG2:Bond:0" class="event" x1="342.35" y1="123" x2="321.57" y2="111" stroke-width="8" opacity="0"></line>
+  <line id="molSVG2:Bond:1" class="event" x1="321.57" y1="111" x2="300.78" y2="123" stroke-width="8" opacity="0"></line>
+  <line id="molSVG2:Bond:2" class="event" x1="300.78" y1="123" x2="280" y2="111" stroke-width="8" opacity="0"></line>
+  <line id="molSVG2:Bond:3" class="event" x1="280" y1="111" x2="259.22" y2="123" stroke-width="8" opacity="0"></line>
+  <line id="molSVG2:Bond:4" class="event" x1="259.22" y1="123" x2="238.43" y2="111" stroke-width="8" opacity="0"></line>
+  <line id="molSVG2:Bond:5" class="event" x1="238.43" y1="111" x2="217.65" y2="123" stroke-width="8" opacity="0"></line>
+  <circle id="molSVG2:Atom:0" class="event" cx="342.35" cy="123" r="8" opacity="1" fill="#ffd70080"></circle>
+  <circle id="molSVG2:Atom:1" class="event" cx="321.57" cy="111" r="8" opacity="1" fill="#ffd70080"></circle>
+  <circle id="molSVG2:Atom:2" class="event" cx="300.78" cy="123" r="8" opacity="1" fill="#ffd70080"></circle>
+  <circle id="molSVG2:Atom:3" class="event" cx="280" cy="111" r="8" opacity="1" fill="#ffd70080"></circle>
+  <circle id="molSVG2:Atom:4" class="event" cx="259.22" cy="123" r="8" opacity="1" fill="#ffd70080"></circle>
+  <circle id="molSVG2:Atom:5" class="event" cx="238.43" cy="111" r="8" opacity="1" fill="#ffd70080"></circle>
+  <circle id="molSVG2:Atom:6" class="event" cx="217.65" cy="123" r="8" opacity="1" fill="#ffd70080"></circle>
+</svg>
