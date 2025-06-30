@@ -1,0 +1,15 @@
+Sample ID,Source,Subtype,Form,Stretch,Mixed?,Ratio,Notes
+n_nat_us,Natural,Natural,Powder,None,No,,Post-ssNMR
+n_nat_2x,Natural,Natural,Film,2x,No,,
+r_α_powder,Recombinant,Alpha,Powder,None,No,,
+r_γ_powder,Recombinant,Gamma (C387S),Powder,None,No,,
+r_α_1x,Recombinant,Alpha,Film,1x,No,,
+r_α_2x,Recombinant,Alpha,Film,2x,No,,
+r_α_3x,Recombinant,Alpha,Film,3x,No,,
+r_α_us,Recombinant,Alpha,Film,None,No,,Unstretched control
+r_γ_1x,Recombinant,Gamma (C387S),Film,1x,No,,
+r_γ_2x,Recombinant,Gamma (C387S),Film,2x,No,,
+r_γ_3x,Recombinant,Gamma (C387S),Film,3x,No,,
+r_mix_1x,Recombinant,Alpha:Gamma,Film,1x,Yes,1:1,
+r_mix_2x,Recombinant,Alpha:Gamma,Film,2x,Yes,1:1,
+r_mix_3x,Recombinant,Alpha:Gamma,Film,3x,Yes,1:1,
