@@ -1,0 +1,4 @@
+532 nm
+750.0uW
+Andor 750
+Unpolarized
