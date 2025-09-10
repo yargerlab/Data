@@ -1,0 +1,4 @@
+532 nm
+74.0mW
+Andor 750
+Depolarized
