@@ -1,0 +1,4 @@
+532 nm
+1.3mW
+Andor 750
+Polarized
