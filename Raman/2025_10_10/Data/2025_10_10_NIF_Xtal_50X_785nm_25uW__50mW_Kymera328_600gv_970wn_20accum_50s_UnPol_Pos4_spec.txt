@@ -1,0 +1,4 @@
+784 nm
+50.0mW
+Kymera 328
+Unpolarized
