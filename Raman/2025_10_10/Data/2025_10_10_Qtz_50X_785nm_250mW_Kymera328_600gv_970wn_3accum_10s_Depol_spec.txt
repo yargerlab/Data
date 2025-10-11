@@ -1,0 +1,4 @@
+784 nm
+250.0mW
+Kymera 328
+Depolarized
