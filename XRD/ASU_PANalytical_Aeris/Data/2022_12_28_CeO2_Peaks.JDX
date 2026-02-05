@@ -1,0 +1,60 @@
+##TITLE= 2022_12_28_CeO2_Peaks.JDX
+##JCAMP-DX= 4.24 $$Test CeO2 
+##DATA TYPE= XRD Peaks
+##ORIGIN= XRD measurement (*.XRDML)
+##OWNER= aeris
+##DATE= 12/28/2022
+##TIME= 2:47:53 PM
+##SAMPLE DESCRIPTION= 2022_12_28_CeO2
+##SOURCE REFERENCE= HighScore Plus 4.8.0
+##TEMPERATURE= 25.00
+##$WAVELENGTH ALPHA1= 1.54060
+##$WAVELENGTH ALPHA2= 1.54443
+##$INTENSITY RATIO ALPHA2/ALPHA1= 0.50000
+##$MONOCHROMATOR= No
+##$SPINNING= Yes
+##$GENERATOR VOLTAGE= 40
+##$TUBE CURRENT= 15
+##$ANODE MATERIAL= Cu
+##$SCAN TYPE= Continuous
+##$COUNT TIME=     1.02
+##$UPDATE DATE= 12/28/2022
+##$UPDATE TIME= 2:47:53 PM
+##$RECEIVING SLIT= 0.10
+##$DIVERGENCE SLIT= 0.46
+##$ILLUMINATION LENGTH=    10.00
+##$DIFFRACTOMETER= 26226
+##$DIFFRAKTOMETER SYSTEM NUMBER= 0
+##XUNITS= 2Theta
+##YUNITS= Counts
+##XFACTOR= 1
+##YFACTOR= 1
+##FIRSTX= 2.2939
+##LASTX= 107.6085
+##DELTAX= 0.0030
+##NPOINTS= 105
+##FIRSTY= 4838
+##MINX= 2.2939
+##MAXX= 107.6085
+##MINY=    17.62
+##MAXY=  4837.70
+##$MINIMUM PEAK ANGLE=2.2939
+##$MAXIMUM PEAK ANGLE=107.6085
+##NUMBER OF PEAKS=15
+$$Nr      Angle      Width     Height     Backgr     Signif     Types
+   1     2.2939     0.1700     4837.7      143.2       5.65     *
+   2     2.8802     0.6235     1838.3      143.2       9.02     *
+   3    28.4922     0.1984      706.7       13.0      37.06     *
+   4    33.0277     0.2267      199.7       11.3      24.93     *
+   5    47.4307     0.1700      384.9        9.7      17.72     *
+   6    56.2854     0.1417      302.7        8.2      11.43     *
+   7    59.0280     0.1417       54.3        8.0       4.08     *
+   8    69.3585     0.1417       54.8        7.1       5.04     *
+   9    76.6522     0.1417      111.7        6.9       7.44     *
+  10    79.0268     0.1417       74.2        7.0       6.37     *
+  11    88.3777     0.1728       98.2        7.2       6.89     1
+  12    88.6498     0.1728       52.2        7.2       3.69     2
+  13    95.3580     0.2074       91.9        7.3      10.81     1
+  14   107.2214     0.2765       36.0        6.2       5.85     1
+  15   107.6085     0.2074       17.6        6.0       9.09     2
+##END=
