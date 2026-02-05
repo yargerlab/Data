@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<MProg:measurementProgramFile xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:HWSettings="http://www.Panalytical.com/HWSettings/1.4" xmlns:MProg="http://www.Panalytical.com/MeasurementProgram/1.4" xmlns:axes="http://www.xrdml.com/Axes14.xsd" xmlns:xrxtypes="http://www.xrdml.com/XRX/DataTypes" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+	<MProg:metadata>
+		<xrxtypes:title>5-90_2D_3min</xrxtypes:title>
+		<xrxtypes:description />
+		<xrxtypes:identifier>{D29AA99A-0201-429E-9B76-51AE717DDB8B}</xrxtypes:identifier>
+		<xrxtypes:created>
+			<xrxtypes:creator>aeris</xrxtypes:creator>
+			<xrxtypes:creatorID>aeris</xrxtypes:creatorID>
+			<xrxtypes:date>2021-03-10T10:49:20.507</xrxtypes:date>
+		</xrxtypes:created>
+		<xrxtypes:modified>
+			<xrxtypes:creator>aeris</xrxtypes:creator>
+			<xrxtypes:creatorID>aeris</xrxtypes:creatorID>
+			<xrxtypes:date>2021-03-10T10:49:20.507</xrxtypes:date>
+		</xrxtypes:modified>
+		<xrxtypes:category name="Measurement type">Absolute scan</xrxtypes:category>
+	</MProg:metadata>
+	<MProg:program xs:type="MProg:singleScanType" configurationName="" beamPath="0">
+		<MProg:Settings>
+			<MProg:generatorSettings>
+				<MProg:actual />
+			</MProg:generatorSettings>
+			<MProg:incidentBeamPath>
+				<MProg:prefixModule>
+					<MProg:actual />
+				</MProg:prefixModule>
+				<MProg:sollerSlit>
+					<MProg:none />
+				</MProg:sollerSlit>
+				<MProg:xRayMirror>
+					<MProg:actual />
+				</MProg:xRayMirror>
+				<MProg:monochromator>
+					<MProg:actual />
+				</MProg:monochromator>
+				<MProg:capillaryOptics>
+					<MProg:actual />
+				</MProg:capillaryOptics>
+				<MProg:filter>
+					<MProg:none />
+				</MProg:filter>
+				<MProg:mask>
+					<MProg:specific xs:type="HWSettings:maskType" id="22210002" />
+				</MProg:mask>
+				<MProg:antiScatterSlit>
+					<MProg:actual />
+				</MProg:antiScatterSlit>
+				<MProg:divergenceSlit>
+					<MProg:specific xs:type="HWSettings:fixedDivergenceSlitType" id="22120005" />
+				</MProg:divergenceSlit>
+				<MProg:beamAttenuator>
+					<MProg:actual />
+				</MProg:beamAttenuator>
+			</MProg:incidentBeamPath>
+			<MProg:beamKnife>
+				<MProg:specific xs:type="HWSettings:beamKnifeType" id="29030101" />
+			</MProg:beamKnife>
+			<MProg:sampleMovement>
+				<MProg:none />
+			</MProg:sampleMovement>
+			<MProg:diffractedBeamPath>
+				<MProg:prefixModule>
+					<MProg:actual />
+				</MProg:prefixModule>
+				<MProg:mask>
+					<MProg:actual />
+				</MProg:mask>
+				<MProg:antiScatterSlit>
+					<MProg:specific xs:type="HWSettings:fixedAntiScatterSlitType" id="22090040" />
+				</MProg:antiScatterSlit>
+				<MProg:sollerSlit>
+					<MProg:none />
+				</MProg:sollerSlit>
+				<MProg:parallelPlateCollimator>
+					<MProg:actual />
+				</MProg:parallelPlateCollimator>
+				<MProg:xRayMirror>
+					<MProg:actual />
+				</MProg:xRayMirror>
+				<MProg:monochromator>
+					<MProg:actual />
+				</MProg:monochromator>
+				<MProg:filter>
+					<MProg:specific xs:type="HWSettings:filterType" id="20030001" />
+				</MProg:filter>
+				<MProg:beamAttenuator>
+					<MProg:actual />
+				</MProg:beamAttenuator>
+				<MProg:receivingSlit>
+					<MProg:actual />
+				</MProg:receivingSlit>
+				<MProg:detector>
+					<MProg:specific xs:type="HWSettings:areaDetectorType" id="7010020">
+						<HWSettings:mode>Scanning area detector</HWSettings:mode>
+						<HWSettings:activeChannelsEquatorial>255</HWSettings:activeChannelsEquatorial>
+						<HWSettings:activeChannelsAxial>255</HWSettings:activeChannelsAxial>
+					</MProg:specific>
+				</MProg:detector>
+			</MProg:diffractedBeamPath>
+		</MProg:Settings>
+		<MProg:mode mode="Continuous">
+			<MProg:time xs:type="axes:timeType" unit="s">20.400</MProg:time>
+		</MProg:mode>
+		<MProg:scanRange xs:type="MProg:scanRangeAbsoluteType">
+			<MProg:start xs:type="axes:positionType" unit="deg">5.000</MProg:start>
+			<MProg:end xs:type="axes:positionType" unit="deg">89.976</MProg:end>
+			<MProg:steps>1956</MProg:steps>
+			<MProg:axis>Gonio</MProg:axis>
+		</MProg:scanRange>
+	</MProg:program>
+	<MProg:history>
+		<xrxtypes:historyItem>
+			<xrxtypes:created>
+				<xrxtypes:creator>aeris</xrxtypes:creator>
+				<xrxtypes:creatorID>aeris</xrxtypes:creatorID>
+				<xrxtypes:date>2021-03-10T10:49:20.509</xrxtypes:date>
+			</xrxtypes:created>
+			<xrxtypes:identifier>{D29AA99A-0201-429E-9B76-51AE717DDB8B}</xrxtypes:identifier>
+			<xrxtypes:softwarePackage>XRDMP Creator</xrxtypes:softwarePackage>
+			<xrxtypes:softwareVersion>1.0.0.3731</xrxtypes:softwareVersion>
+			<xrxtypes:action description="Created" />
+		</xrxtypes:historyItem>
+	</MProg:history>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>0H6MBk4AeHt+D0pLnI5rIREC/gc=</DigestValue></Reference></SignedInfo><SignatureValue>LLJX4sPP4gCTI9UNlzqPsoHkcBieBw9jJaYhDgD3iQ4KSU0Gp2qECsBZ7Y0NgakiGORMFPZLIykRp07jLS1SBGmoPaNyrqb8FRWViAAmptzXo+M6U0miBNZFOzdqJyKMh9nfyluhnQdhX/60aGSkRKssbIq73940wVOD/rISNuc=</SignatureValue></Signature></MProg:measurementProgramFile>
