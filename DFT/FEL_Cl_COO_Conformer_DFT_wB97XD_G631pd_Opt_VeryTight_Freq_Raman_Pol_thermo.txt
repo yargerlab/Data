@@ -1,0 +1,46 @@
+Filename = /Users/yarger/Downloads/FEL_Cl_COO_Conformer_DFT_wB97XD_G631pd_Opt_VeryTight_Freq_Raman_Pol.log
+
+Overview Tab Data Section:
+Felodipine
+/Users/yarger/Downloads/FEL_Cl_COO_Conformer_DFT_wB97XD_G631pd_Opt_VeryTight_Freq_Raman_Pol.log
+File Type = .log
+Calculation Type = FREQ
+Calculation Method = RwB97XD
+Basis Set = 6-31+G(d)
+Charge = 0
+Spin = Singlet
+Solvation = None
+E(RwB97XD) = -1973.0836 Hartree
+RMS Gradient Norm = 4.25e-07 Hartree/Bohr
+Imaginary Freq = 0
+Dipole Moment = 9.2299118 Debye
+Polarizability (?) = 250.37071 a.u.
+HyperPolarizability (?) = 34.734071 a.u.
+Point Group = C1
+Job cpu time:       2 days 12 hours 40 minutes 37.3 seconds.
+
+Thermo Tab Data Section:
+Imaginary Freq = 0
+Temperature = 298.15 Kelvin
+Pressure = 1 atm
+Frequencies scaled by = 1
+Electronic Energy (EE) = -1973.0836 Hartree
+Zero-point Energy Correction = 0.348498 Hartree
+Thermal Correction to Energy = 0.373683 Hartree
+Thermal Correction to Enthalpy = 0.374627 Hartree
+Thermal Correction to Free Energy = 0.291126 Hartree
+EE + Zero-point Energy = -1972.7352 Hartree
+EE + Thermal Energy Correction = -1972.71 Hartree
+EE + Thermal Enthalpy Correction = -1972.709 Hartree
+EE + Thermal Free Energy Correction = -1972.7925 Hartree
+E (Thermal) = 234.49 kcal/mol
+Heat Capacity (Cv) = 91.692 cal/mol-kelvin
+Entropy (S) = 175.744 cal/mol-kelvin
+
+Opt Tab Data Section:
+Step number = 1
+Maximum force = 0 Converged
+RMS force = 0 Converged
+Maximum displacement = 8e-06 Not converged
+RMS displacement = 2e-06 Converged
+Predicted energy change = -4.90353e-14 Hartree
