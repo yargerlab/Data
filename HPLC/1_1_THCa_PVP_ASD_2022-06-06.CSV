@@ -1,0 +1,12 @@
+Sample name:,1_1_THCa_PVP_ASD,Sample type:,Sample
+Sample amount:,175.300,Injection volume:,10.000
+Multiplier:,1,Dilution:,1
+Acq. method:,Cann_Potency_75iso.M,Analysis method:,Cann_Potency_75iso.M
+
+Percent report based on Area
+Name,RT [min],Area,Height,RF,Amount [ng/ul],"""Amount (%)"""
+CBGa,2.480,5.4255,0.5351,,0.000,0.00
+CBD,3.044,11.9511,1.1554,0.00340,0.041,0.02
+d9-THC,5.766,27.8841,3.5845,0.05424,1.512,0.86
+THCa,7.592,2194.7417,265.8270,0.04097,89.915,51.29
+
