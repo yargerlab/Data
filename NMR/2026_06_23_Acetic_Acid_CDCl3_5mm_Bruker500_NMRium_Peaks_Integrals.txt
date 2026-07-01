@@ -1,0 +1,3 @@
+#	δ (ppm)	Intensity	Kind	fwhm	Relative Integral
+1	2.103158207916916	4223956803584	pseudoVoigt	1	3.00
+2	11.458171149168741	39652745216	pseudoVoigt	1	0.97
