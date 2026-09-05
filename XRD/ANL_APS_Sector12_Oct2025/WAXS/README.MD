@@ -12,3 +12,14 @@ The beam size can be slitted down to the size of about 10x10 um^2 if needed.
 WAXS Setup parameters
 
 _____________________
+
+- SDD: 416.4710
+- BeamXY: [247.1910 925.6010]
+- yaw: 15.5000
+- eng: 13.3000
+- detector: 'Pilatus300K'
+- row: 619
+- col: 487
+- wavelength: 0.9322
+- pSize: 0.1720
+- Beamline: '12-ID-B, APS'
